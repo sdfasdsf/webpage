@@ -96,13 +96,13 @@
 			
 			<div class="carousel-inner">
 				<div class="item active">
-					<img src="images/1.jpg">
+					<img src="images/닐루.jpg">
 				</div>
 				<div class="item">
-					<img src="images/2.jpg">
+					<img src="images/암왕제군.jpg">
 				</div>
 				<div class="item">
-					<img src="images/3.jpg">
+					<img src="images/페이몬.jpg">
 				</div>
 			</div>
 			<a class="left carousel-control" href="#myCarousel" data-slide="prev">
